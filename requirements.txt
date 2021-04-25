@@ -1,0 +1,8 @@
+# Action Game Project: Python libraries we'll be using for this project.
+
+# Python Version
+python~=3.9.4
+
+# Graphics and data visualization
+pygame~=2.0.1
+
