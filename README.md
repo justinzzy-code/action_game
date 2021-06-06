@@ -3,7 +3,7 @@ This is a game inspired from traditional old games like Mario. This was done usi
 
 Ensure that you have installed all necessary libraries under 'requirements.txt'. 
 
-Simply run action_game.py to play the game. 
+Simply download all files and run action_game.py to play the game. 
 
 There are also some preview videos showing what the game looks like. Enjoy them!
 
