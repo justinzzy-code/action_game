@@ -7,4 +7,4 @@ Simply run action_game.py to play the game.
 
 There are also some preview videos showing what the game looks like. Enjoy them!
 
-This was done in collaboration with ___ from National University of Singapore. 
+This was done in collaboration with Sim Yew Chong from National University of Singapore. 
